@@ -22,13 +22,3 @@ Thanks for checking out my profile. I'm currently working as Software Engineer a
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
-
-
-### Coded This Week 💻
-
-[![Pradeep's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&theme=onedark&username=pradeep)](https://github.com/pk-rawat)
-
-
-### GitHub Trophies 🏆
-
-[![Pradeep's Github Trophies](https://github-profile-trophy.vercel.app/?username=pk-rawat&theme=onedark)](https://github.com/pk-rawat)
