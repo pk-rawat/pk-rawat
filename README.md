@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pk-rawat.pk-rawat)
 
 
-Thanks for checking out my profile. I'm currently working as Software Engineer at [Akaruilabs India](https://github.com/akaruilabs-india). If you wanna say hi, I'll be happy to meet you. You can contact me using email given in my profile.😃
+Thanks for checking out my profile. If you wanna say hi, I'll be happy to meet you. You can contact me using email given in my profile.😃
 
 
 ### Technologies & Tools 🔨
